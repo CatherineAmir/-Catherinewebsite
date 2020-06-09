@@ -1,0 +1,237 @@
+body
+{
+  color:#40514E;
+  background: white  ;
+  font-family: 'Playfair Display', serif;
+  text-align: center;
+  width:100%;
+  margin:0;
+  }
+
+.Top-container
+{
+  background-color:#E4F6F6;
+  width:100%;
+  margin:  0 ;
+  position: relative;
+}
+
+.im1  .profile
+{
+  margin :100 auto 100 auto;
+}
+h1
+{
+  font-size: 90px;
+  position: static;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color:#66BFBF;
+  line-height: 2;
+}
+h2
+{
+  margin: 30px auto 0 auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size:2.5rem;
+  color:#66BFBF;
+  font-weight:bold;
+  line-height: 2;
+  padding:10px;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+a
+{
+  color:#11999E;
+}
+.pro
+{
+  text-decoration: underline;
+}
+.intro
+{
+  width:30%;
+  margin: auto;
+}
+.cloud1
+{
+  position :relative;
+  left:300px;
+  top:40px;
+}
+.skill-row
+{
+  width:50%;
+  text-align: left;
+  margin :10px auto 10px auto;
+  line-height: 2;
+}
+.Skills
+{
+ text-align: center;
+ margin :30px auto 50px auto;
+ line-height: 2;
+}
+.cloud2
+{
+  display: inline-block;
+  position :relative;
+  right:250px;
+  top:30px;
+}
+.mountain
+{
+  display: block;
+  margin:0 auto 100px auto;
+  position: static;
+
+}
+.middle-container
+{
+background-color:white;
+width:100%;
+
+text-align: center;
+position:relative;
+bottom:0;
+top:0;
+left:0;
+right:0;
+margin:100px auto 100px auto;
+line-height: 2;
+}
+.Skills
+{
+position:relative;
+height: 600px;
+width: 100%;
+margin-bottom: 30px;
+}
+.avatar
+{
+  display:block;
+  width: 25%;
+  float: left;
+  position: relative;
+  bottom:80px;
+  margin-right:10px;
+
+}
+.profile
+{
+  margin-bottom:50px;
+}
+.bottom-container
+{
+  display: block;
+  position: relative;
+  top:15px;
+  width:100%;
+  background-color: #66BFBF;
+
+  margin:0;
+  color: #FFFFFF;
+  padding-bottom: 10px;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact-me
+{ width:100%;
+  text-align: center;
+  margin: auto;
+}
+
+.btn {
+	-moz-box-shadow: 0 0 0 2px #9fb4f2;
+	-webkit-box-shadow: 0 0 0 2px #9fb4f2;
+	box-shadow: 0 0 0 2px #9fb4f2;
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #11cdd4), color-stop(1, #11999e) );
+	background:-moz-linear-gradient( center top, #11cdd4 5%, #11999e 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#11cdd4', endColorstr='#11999e');
+	background-color:#11cdd4;
+	-webkit-border-top-left-radius:9px;
+	-moz-border-radius-topleft:9px;
+	border-top-left-radius:9px;
+	-webkit-border-top-right-radius:9px;
+	-moz-border-radius-topright:9px;
+	border-top-right-radius:9px;
+	-webkit-border-bottom-right-radius:9px;
+	-moz-border-radius-bottomright:9px;
+	border-bottom-right-radius:9px;
+	-webkit-border-bottom-left-radius:9px;
+	-moz-border-radius-bottomleft:9px;
+	border-bottom-left-radius:9px;
+  text-indent:0;
+	border:1px solid #4e6096;
+	display:inline-block;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:14px;
+	font-weight:bold;
+
+	font-style:normal;
+  height:50px;
+	line-height:50px;
+  width:120px;
+
+  margin: auto;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:0 1px 0 #283966;
+
+}
+.btn:hover
+{
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #3de3cb), color-stop(1, #2bc4ac) );
+	background:-moz-linear-gradient( center top, #3de3cb 5%, #2bc4ac 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3de3cb', endColorstr='#2bc4ac');
+	background-color:#119a9c;
+}
+.btn:active
+{
+	position:relative;
+	top:1px;
+}
+
+hr
+{
+ border-top: 7px;
+ width: 4%;
+ margin:70px auto ;
+ border-color:#EAF6F6;
+ border-style:none;
+ border-top-style:dotted;
+ clear:left;
+}
+p
+{
+  line-height: 2;
+}
+.footer-link
+{
+}
+a
+{
+  color:#11999E;
+ text-decoration: none;
+ font-weight: bolder ;
+ font-family: 'Montserrat', sans-serif;
+
+
+}
+a:hover
+{
+  color:#EAF6F6;
+
+  margin :10px 20px;
+  font-weight: bolder;
+}
+.copy-right
+{
+ color:#EAF6F6;
+ font-size: 0.75rem ;
+ padding: 10px 0 ;
+}
